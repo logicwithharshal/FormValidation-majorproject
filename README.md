@@ -21,5 +21,4 @@ A simple web-based form validation project built using HTML, CSS, and JavaScript
 https://formvalidation-major-project.netlify.app/
 
 ## Author
-
 Harshal
