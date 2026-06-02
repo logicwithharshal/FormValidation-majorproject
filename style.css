@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   font-family: Arial, sans-serif;
 }
@@ -10,3 +11,17 @@ h3 {
   font-weight: bold;
   color: #333;
 }
+=======
+body {
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: #fff;
+}
+
+h3 {
+  font-weight: bold;
+  color: #333;
+}
+>>>>>>> 8cdfaa15f09feee78898da4610b704cfe383ce31
